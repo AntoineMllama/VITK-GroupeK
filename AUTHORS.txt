@@ -1,0 +1,3 @@
+Andrii Hrona <andrii.hrona@epita.fr>
+Antoine Menard <antoine.menard@epita.fr>
+Damien Tissot <damien.tissot@epita.fr>

@@ -1,0 +1,6 @@
+itk
+vtk
+numpy
+screeninfo
+tqdm
+matplotlib
